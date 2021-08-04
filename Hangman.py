@@ -97,7 +97,7 @@ print("This is the Ultimate Hangman Game\n")
 print("(Try to guess the Movie in less than 10 Attempts, Otherwise You will Loose)")
 print("(At your each wrong attempt the the man will start hanging step by step)")
 print("(When ur all wrong attempts are over, the man will hang and your game over, You loose)")
-print("(If you guess the movie correct before mag hangning, you won Hurray!!!)\n")
+print("(If you guess the movie correct before man hanging, you won Hurray!!!)\n")
 hangman()
 print()
 
